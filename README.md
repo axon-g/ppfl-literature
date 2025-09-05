@@ -17,9 +17,12 @@
 ## Terms and abbereviations
 * **FL**: _Federated Learning_
 * **PPFL**: _Privacy-Preserving Federated Learning_
+* **Cross-device FL**:
+  * ML training labels are created on individual devices (e.g., Android phones)
+  * labels never leave the device
 * **Cross-silo FL**:
-   * ML labels are created internally by the institution
-   * These labels never leave the institution
+   * training labels are created internally by institutions (e.g. hospitals)
+   * labels never leave the institution
 * **Non-IID Data**: not independent & identically distributed client data
 * **DP**: _Differential Privacy_: adds noise to client data - during model updates - to prevent information leakage
 
