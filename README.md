@@ -1,7 +1,8 @@
 # Privacy-Preserving Federated Learning 
-* Privacy-Preserving Federated Learning is a technique for training machine learning models on decentralized data while protecting privacy
-
-## Characteristics
+* _Privacy-Preserving Federated Learning_ is a technique for training machine learning models on decentralized data while protecting privacy
+* this page aims to provide theoretical background for FL-related R&D
+  
+## FL Characteristics
 * **Federated Learning (FL):** A machine learning paradigm where models are trained across decentralized data sources (clients) without moving raw data.
 * **Privacy-Preserving FL (PPFL):** Enhances FL with techniques to ensure sensitive user data remains protected even during training and aggregation.
 * **Core ideas:**
